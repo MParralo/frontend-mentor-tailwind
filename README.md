@@ -6,5 +6,5 @@ My solutions to Frontend Mentor challenges, focusing on modern frontend practice
 
 | # | Challenge Name | Technologies | Demo Link |
 | --- | --- | --- | --- |
-| 01 | Social Links Profile | HTML, CSS | [View](https://mparralo.github.io/Front-End-Mentor/01-social-links-profile-main/) |
-| 02 | Interactive Rating Component | HTML, CSS, JavaScript | [View](https://mparralo.github.io/Front-End-Mentor/02-interactive-rating-component-main/) |
+| 01 | Social Links Profile | HTML, CSS | 2025-10-24 | [View](https://mparralo.github.io/Front-End-Mentor/01-social-links-profile-main/) |
+| 02 | Interactive Rating Component | HTML, CSS, JavaScript | 2025-11-07 | [View](https://mparralo.github.io/Front-End-Mentor/02-interactive-rating-component-main/) |
