@@ -6,6 +6,7 @@
     --font-sans: "Raleway", sans-serif;
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
+    --color-red-800: oklch(44.4% 0.177 26.899);
     --color-gray-400: oklch(70.7% 0.022 261.325);
     --color-white: #fff;
     --spacing: 0.25rem;
@@ -337,9 +338,6 @@
   .bg-\[url\(\.\.\/images\/bg-mobile\.png\)\] {
     background-image: url(../images/bg-mobile.png);
   }
-  .bg-\[url\(\/images\/bg-mobile\.png\)\] {
-    background-image: url(/images/bg-mobile.png);
-  }
   .from-\[\#ffa399\] {
     --tw-gradient-from: #ffa399;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
@@ -423,11 +421,6 @@
   .sm\:bg-\[url\(\.\.\/images\/bg-desktop\.png\)\] {
     @media (width >= 40rem) {
       background-image: url(../images/bg-desktop.png);
-    }
-  }
-  .sm\:bg-\[url\(\/images\/bg-desktop\.png\)\] {
-    @media (width >= 40rem) {
-      background-image: url(/images/bg-desktop.png);
     }
   }
   .md\:-top-\[50px\] {
